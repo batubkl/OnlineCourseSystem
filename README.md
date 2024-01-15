@@ -9,8 +9,7 @@ Installation
 Usage
 Data Structures
 Contributing
-License
-Features
+
 
 User Authentication: Allows users to register and log in securely.
 Topic Selection: Users can choose from various topics of courses.
@@ -20,7 +19,7 @@ Installation
 
 To run the Online Course System locally:
 
-Clone this repository to your local machine using git clone https://github.com/your-username/online-course-system.git.
+Clone this repository to your local machine using git clone https://github.com/batubkl/OnlineCourseSystem.git)](https://github.com/batubkl/OnlineCourseSystem.git
 Open the project in your preferred Java IDE.
 Ensure you have the necessary dependencies and JDK installed.
 Usage
@@ -38,13 +37,4 @@ Tree: Powers the search functionality, storing course names for efficient retrie
 Contributing
 
 Contributions are welcome! If you'd like to improve this project:
-
-Fork the repository.
-Create your feature branch (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
-Open a pull request.
-License
-
-This project is licensed under the MIT License.
 
